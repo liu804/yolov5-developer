@@ -1,0 +1,4 @@
+F:\yolov5-developF:/yolov5-develop/stan_data/images/a1.jpg
+F:\yolov5-developF:/yolov5-develop/stan_data/images/a17.jpg
+F:\yolov5-developF:/yolov5-develop/stan_data/images/a28.jpg
+F:\yolov5-developF:/yolov5-develop/stan_data/images/a7.jpg
